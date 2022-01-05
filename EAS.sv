@@ -1,0 +1,1 @@
+module EAS(input logic clk, rx, RTS, output logic tx, CTS, )
